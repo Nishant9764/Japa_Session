@@ -1,0 +1,13 @@
+{
+  "appId": "com.nrjd.japasession",
+  "appName": "Japa Session Tool",
+  "webDir": "public",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

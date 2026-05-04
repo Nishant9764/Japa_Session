@@ -1,0 +1,21 @@
+{
+  "name": "japa-session-tool",
+  "version": "1.0.0",
+  "description": "Distraction-free Japa Session Tool for group chanting",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "japa",
+    "chanting",
+    "hare-krishna"
+  ],
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/android": "^8.3.1",
+    "@capacitor/cli": "^8.3.1",
+    "@capacitor/core": "^8.3.1"
+  }
+}
